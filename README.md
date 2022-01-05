@@ -14,6 +14,10 @@
 ```pkg install python2 -y ```
         
 ```pkg intall git -y ```
+
+```git clone https://github.com/Error-For-You/My-DATA```
+
+```python 
         
 
 </div>        
