@@ -17,7 +17,9 @@
 
 ```git clone https://github.com/Error-For-You/My-DATA```
 
-```python 
+```python Data.py```
+
+````Enter your data ...````
         
 
 </div>        
