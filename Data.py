@@ -1,3 +1,4 @@
+clear
 print("")
 print("")
 print("\033[1;31m _   _ ___         ")
